@@ -1,0 +1,4 @@
+/usr/src/app/src/main/java/com/example/strutsdemo/action/ListCustomersAction.java
+/usr/src/app/src/main/java/com/example/strutsdemo/dao/CustomerDAO.java
+/usr/src/app/src/main/java/com/example/strutsdemo/db/Database.java
+/usr/src/app/src/main/java/com/example/strutsdemo/model/Customer.java

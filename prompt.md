@@ -1,0 +1,1 @@
+Create a struts 2 application that reads data from a postgres table and displays it in a table. The table is called customer and contains name, email and phone number. The database should use docker for postgres
